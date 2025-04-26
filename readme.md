@@ -4,7 +4,7 @@ This guide provides instructions for using the MegaETH Testnet tool for automate
 
 ## Requirements
 
-- **Faucet**: If you need a faucet, you can purchase it via [Telegram](https://t.me/ahlulmukh).
+- **Faucet**: If you need a faucet, [Claim](https://testnet.megaeth.com/), if you need more faucet, you can purchase it via [Telegram](https://t.me/ahlulmukh).
 - **Proxy**: Optional, but recommended for enhanced privacy.
 
 ## Features
