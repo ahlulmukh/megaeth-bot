@@ -30,7 +30,7 @@ uname -m
 
 ### For Windows
 
-1. Download the latest release: [Download MegaETH for Windows](https://github.com/ahlulmukh/megaeth-bot/releases/download/1.0.0/megaeth.exe).
+1. Download the latest release: [Download MegaETH for Windows](https://raw.githubusercontent.com/ahlulmukh/megaeth-bot/main/bin/megaeth-bot-windows/megaeth-bot.exe).
 2. Execute the downloaded file.
 3. Enter your private key in the command line when prompted.
 
@@ -39,7 +39,7 @@ uname -m
 1. download file.
 
    ```bash
-   wget https://github.com/ahlulmukh/megaeth-bot/releases/download/1.0.0/megaeth-linux-amd64
+   wget https://raw.githubusercontent.com/ahlulmukh/megaeth-bot/main/bin/megaeth-bot-linux-amd64/megaeth-bot-amd64
    ```
 
 2. Give permession.
@@ -56,7 +56,7 @@ uname -m
 1. download file.
 
    ```bash
-   wget https://github.com/ahlulmukh/megaeth-bot/releases/download/1.0.0/megaeth-linux-arm64
+   wget https://raw.githubusercontent.com/ahlulmukh/megaeth-bot/main/bin/megaeth-bot-linux-arm64/megaeth-bot-arm64
    ```
 
 2. Give permession.
