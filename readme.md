@@ -2,15 +2,18 @@
 
 This guide provides instructions for using the MegaETH Testnet tool for automated transactions.
 
+![Screenshot](img.jpg)
+
 ## Requirements
 
-- **Faucet**: If you need a faucet, [Claim](https://testnet.megaeth.com/), if you need more faucet, you can purchase it via [Telegram](https://t.me/ahlulmukh).
+- **Faucet**: If you need a faucet, [Claim Here](https://testnet.megaeth.com/), and if you need more faucet you can purchase it via [Telegram](https://t.me/ahlulmukh).
 - **Proxy**: Optional, but recommended for enhanced privacy.
 
 ## Features
 
 - Bebop Exchange, swap eth -> weth , weth <-eth
 - Teko Mint All
+- Auto Updater Tool
 
 ## Checking System Architecture
 
