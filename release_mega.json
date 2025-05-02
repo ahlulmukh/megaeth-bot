@@ -1,17 +1,17 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "windows": {
     "url": "https://raw.githubusercontent.com/ahlulmukh/megaeth-bot/main/bin/megaeth-bot-windows/megaeth-bot.exe",
-    "checksum": "a2c4b75a257570702954d029a68996feeb372761989b60ece08e512e8c185d81"
+    "checksum": "9261e657006e68f6b6e9aba7a2eeb7afb3b45e0a9ccd3f8b317db1132471ae46"
   },
   "linux": {
     "amd64": {
       "url": "https://raw.githubusercontent.com/ahlulmukh/megaeth-bot/main/bin/megaeth-bot-linux-amd64/megaeth-bot-amd64",
-      "checksum": "707f0ab56b04dc9b634e6c5e9987a897a9ac7798fb1bcda57d71b7383482172c"
+      "checksum": "c221395ae915cd701c7c65aaf011fa92f9d750585f4b6aa374fc85c3046c39c3"
     },
     "arm64": {
       "url": "https://raw.githubusercontent.com/ahlulmukh/megaeth-bot/main/bin/megaeth-bot-linux-arm64/megaeth-bot-arm64",
-      "checksum": "89856887e0376073d0b47cffa35fe476eb248837183d542f102e68f32a0280e8"
+      "checksum": "aeb5c4e29037bd19adf3a91433c6e185f37f2831eaa9df12b0e2117de10b53d5"
     }
   }
 }
