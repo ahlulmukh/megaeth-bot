@@ -1,3 +1,3 @@
 SHA256 hash of megaeth-bot.exe:
-9261e657006e68f6b6e9aba7a2eeb7afb3b45e0a9ccd3f8b317db1132471ae46
+dc1ed3e984d444f4152675229e69520b0c77ca210738f48f8096f23546bc7dbc
 CertUtil: -hashfile command completed successfully.
