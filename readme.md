@@ -2,7 +2,7 @@
 
 This guide provides instructions for using the MegaETH Testnet tool for automated transactions.
 
-![Screenshot](img.jpg)
+![Screenshot](img.png)
 
 ## Requirements
 
